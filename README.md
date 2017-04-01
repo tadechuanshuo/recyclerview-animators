@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RecyclerView Animators
 ======================
 <p align="center">
@@ -284,3 +285,7 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# recyclerview-animators
+这是一个recyclerview的多种动画效果（转载）
+>>>>>>> fefc7f7b62cfdc1989586729a1f9ebb591e108a1
